@@ -27,7 +27,7 @@ const HEADERS = {
 
 function logToReadme(log) {
     const logEntry = `${log}\n`;
-    fs.appendFileSync('log.txt', logEntry, 'utf8');
+    fs.appendFileSync('log-layeredge.txt', logEntry, 'utf8');
     console.log(log);
 }
 function timelog() {
