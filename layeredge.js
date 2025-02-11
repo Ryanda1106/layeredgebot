@@ -26,7 +26,7 @@ const HEADERS = {
 };
 
 function logToReadme(log) {
-    const logEntry = `*****${log}*****\n`;
+    const logEntry = `${log}\n`;
     fs.appendFileSync('log.txt', logEntry, 'utf8');
     console.log(log);
 }
