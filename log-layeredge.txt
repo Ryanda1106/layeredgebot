@@ -76,3 +76,6 @@
 <!-- a padding to disable MSIE and Chrome friendly error page -->
 
 [03:13:49 | 04-03-2025] 🚨 Failed to start node for 0x000004ad77FB28b1661d7836D640AdD49aa2DE66: [object Object]
+[07:53:56 | 04-03-2025] Wallet Address: 0x000004ad77FB28b1661d7836D640AdD49aa2DE66
+[07:53:56 | 04-03-2025] Node Points: 372806
+[07:53:56 | 04-03-2025] Last Claim Point: 03/03/2025 20:12:55
